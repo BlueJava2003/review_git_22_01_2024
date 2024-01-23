@@ -1,1 +1,2 @@
 Học Java rất hay
+Đã hoàn thành chương trình Java core

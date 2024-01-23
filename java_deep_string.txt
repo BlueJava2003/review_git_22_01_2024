@@ -1,1 +1,1 @@
-Học String Java cuốn vcl
+Học String Java cuốn vcl nhưng nhiều hàm và rất khó
